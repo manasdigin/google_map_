@@ -41,6 +41,8 @@ dependencies:
   geolocator: ^13.0.1
   geocoding: ^3.0.0
   location: ^6.0.2
+  flutter_local_notifications: ^17.2.2
+  maps_toolkit: ^3.0.0
 
 dev_dependencies:
   flutter_test:
